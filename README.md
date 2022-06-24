@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrisHuang
-- 👀 I’m interested in RRiding && basketball
+- 👀 I’m interested in RRiding && Coding
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on something beautiful
 - 📫 How to reach me 1637577696@qq.com
