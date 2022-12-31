@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrisHuang
+- 👋 Hi, I’m @KrysHuang
 - 👀 I’m interested in RRiding && Coding
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on something beautiful
